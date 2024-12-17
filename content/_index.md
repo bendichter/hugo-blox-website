@@ -10,8 +10,8 @@ design:
 sections:
   - block: hero
     content:
-      title: Build Your Landing Pages with Hugo Blox
-      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
+      title: CatalystNeuro
+      text: Research software engineering services for neurophysiology labs
       primary_action:
         text: Get Started
         url: https://hugoblox.com/templates/
